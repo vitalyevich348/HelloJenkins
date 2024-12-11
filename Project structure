@@ -1,0 +1,4 @@
+docker-hello-world/
+    ├── Dockerfile
+    ├── HelloWorld.java
+    └── pom.xml (if we use Maven)
